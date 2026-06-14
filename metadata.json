@@ -1,0 +1,6 @@
+{
+  "name": "Royal AC Service",
+  "description": "Premium air conditioner repair and maintenance services. Fast, reliable, and trustworthy AC solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
