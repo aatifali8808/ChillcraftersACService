@@ -30,7 +30,7 @@ export function Navigation() {
             <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>
           </div>
           <span className="font-display font-bold text-xl tracking-tight uppercase text-slate-900 hidden sm:block">
-            Royal <span className="text-blue-600">AC</span> Service
+            Chillcrafters <span className="text-blue-600">AC</span> Service
           </span>
         </div>
 
@@ -62,7 +62,7 @@ export function Navigation() {
             href="#booking"
             className="px-5 py-2.5 bg-[#0A192F] text-white rounded-xl text-sm font-semibold shadow-lg hover:shadow-blue-900/20 transition"
           >
-            Call 1800-ROYAL-AC
+            Call 1800-Chillcrafters-AC
           </a>
         </div>
 

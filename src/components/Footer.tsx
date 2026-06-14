@@ -11,7 +11,7 @@ export function Footer() {
               <div className="w-10 h-10 rounded-lg bg-blue-600 flex items-center justify-center text-white font-bold text-xl">
                 R
               </div>
-              <span className="font-display font-bold text-xl text-white tracking-tight">Royal AC Service</span>
+              <span className="font-display font-bold text-xl text-white tracking-tight">Chillcrafters AC Service</span>
             </div>
             <p className="text-sm text-slate-400 mb-6 leading-relaxed">
               Premium AC installation, repair, and maintenance. Keeping you cool and comfortable with fast, reliable, and professional service.
@@ -80,7 +80,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-slate-500">
-          <p>&copy; {new Date().getFullYear()} Royal AC Service. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Chillcrafters AC Service. All rights reserved.</p>
           <div className="flex gap-4">
              <a href="#" className="hover:text-white transition">Privacy Policy</a>
              <a href="#" className="hover:text-white transition">Terms of Service</a>
